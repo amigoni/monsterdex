@@ -1,0 +1,6 @@
+framework module Pods_monsterdex {
+  umbrella header "Pods-monsterdex-umbrella.h"
+
+  export *
+  module * { export * }
+}
